@@ -31,8 +31,8 @@ This project implements a complete MLOps workflow for text classification. A pre
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/g25ait2032-prog/nagaananth.git
-cd nagaananth
+git clone https://github.com/g25ait2004-cyber/Abhishek.git
+cd Abhishek
 ```
 
 ### 2. Install dependencies
@@ -68,9 +68,9 @@ python eval.py
 
 | Metric    | Score  |
 |-----------|--------|
-| Accuracy  | 0.6464   |
-| F1 Score  | 0.6452   |
-| Eval Loss | 0.9723   |
+| Accuracy  | 0.5750   |
+| F1 Score  | 0.5729   |
+| Eval Loss | 2.2505   |
 
 
 
