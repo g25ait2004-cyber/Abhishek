@@ -78,5 +78,5 @@ python eval.py
 
 ## Links
 
-- **Hugging Face model:** https://huggingface.co/nagaananth/distilbert-goodreads-genres
-- **W&B dashboard:** https://wandb.ai/g25ait2032-iit-jodhpur/mlops-assignment2
+- **Hugging Face model:** https://huggingface.co/g25ait2004/DistilBERT_Goodreads
+- **W&B dashboard:** https://wandb.ai/g25ait2004-indian-institute-of-technology-jodhpur/MLOps%20Assignment?nw=nwuserg25ait2004
