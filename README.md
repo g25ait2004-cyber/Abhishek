@@ -1,7 +1,5 @@
 # MLOps Assignment 2 — DistilBERT Goodreads Genre Classifier
 
-**IIT Jodhpur | PGD AI Programme | MLOps**
-
 Fine-tunes `distilbert-base-cased` on UCSD Goodreads reviews to classify books into 7 genres.  
 Experiment tracking with **Weights & Biases** and model hosting on **Hugging Face Hub**.
 
